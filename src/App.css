@@ -50,16 +50,48 @@ html, body {
 
 .sv-logo {
   float: left;
+  width: 200px;
+  height: auto;
   margin: 0 30px;
 }
 
-.header-title {
-  margin-left: 50px;
-  margin-right: 50px;
-  color: #11187e; /* Change the color */
-  font-size: 16px; /* Change the font size */
+.niva-logo {
+  width: 150px; /* Make the NIVA logo bigger */
+  margin-bottom: 10px; /* Add some space below the NIVA logo */
 }
 
+.small-logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px; /* Space between NILU and IFE logos */
+}
+
+.nilu-logo {
+  height: 50px; /* Adjust the height as needed */
+  width: auto; /* Maintain aspect ratio */
+}
+
+.ife-logo {
+  height: 70px; /* Set a fixed height for consistency */
+  width: auto;
+}
+
+.header-title h1 {
+  /*margin-left: 50px;
+  margin-right: 50px;*/
+  color: #11187e;
+  font-size: 40px;
+}
+
+.header-title .sub-header {
+  margin-left: 50px;
+  margin-right: 100px;
+  color: #11187e;
+  font-size: 28px;
+  /*display: block;*/
+}
+/*
 .niva-logo{
   width: 120px;
   height: auto;
@@ -77,7 +109,7 @@ html, body {
   height: auto;
   margin: 20px 10px;
 }
-
+*/
 .app-container {
   display: flex;
   flex-direction: column;
@@ -104,11 +136,6 @@ html, body {
   align-items: center;
 }
 
-.map-container {
-  width: 100%;
-  height: 400px; /* Adjust the height as needed */
-}
-
 .iframe-container {
   flex: 1;
   overflow: hidden;
@@ -117,6 +144,6 @@ html, body {
 
 .iframe-container iframe {
   width: 100%;
-  height: calc(100% - 400px);
+  height: 100%;
   border: none;
 }

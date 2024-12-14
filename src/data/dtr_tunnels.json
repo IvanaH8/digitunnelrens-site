@@ -1,0 +1,260 @@
+[
+    {
+        "latitude": 59.71401620073406,
+        "longitude": 10.455338428849531,
+        "tunnel": "Elgskauåstunnelen",
+        "id": 81509268
+    },
+    {
+        "latitude": 59.66486175781154,
+        "longitude": 10.536831161869696,
+        "tunnel": "Stampeleinåstunnelen",
+        "id": 81509457
+    },
+    {
+        "latitude": 59.66495938022688,
+        "longitude": 10.55128076678194,
+        "tunnel": "Merraskottunnelen",
+        "id": 81509484
+    },
+    {
+        "latitude": 59.699449830936295,
+        "longitude": 10.735431088892875,
+        "tunnel": "Smiehagen tunnel",
+        "id": 83645662
+    },
+    {
+        "latitude": 59.6690212866098,
+        "longitude": 10.622239856031312,
+        "tunnel": "Oslofjordtunnelen",
+        "id": 83646549
+    },
+    {
+        "latitude": 59.71084645241907,
+        "longitude": 10.694050872136597,
+        "tunnel": "Frogntunnelen",
+        "id": 83648150
+    },
+    {
+        "latitude": 59.70820980936326,
+        "longitude": 10.733376824249984,
+        "tunnel": "Vassumtunnelen",
+        "id": 83649205
+    },
+    {
+        "latitude": 59.9079702932743,
+        "longitude": 10.628530486701658,
+        "tunnel": "Teleplanlokket",
+        "id": 83652325
+    },
+    {
+        "latitude": 59.889363669317774,
+        "longitude": 10.521324552849368,
+        "tunnel": "Vesttunnelen",
+        "id": 83656816
+    },
+    {
+        "latitude": 59.91074598011056,
+        "longitude": 10.636523777841909,
+        "tunnel": "Strandveitunnelen",
+        "id": 83657246
+    },
+    {
+        "latitude": 59.91638061766401,
+        "longitude": 10.59129169580919,
+        "tunnel": "Ringstadbekktunnelen",
+        "id": 83657826
+    },
+    {
+        "latitude": 59.89231671833098,
+        "longitude": 10.528373944924857,
+        "tunnel": "Sandviksåstunnelen",
+        "id": 83659882
+    },
+    {
+        "latitude": 59.91665575460146,
+        "longitude": 10.585636169353847,
+        "tunnel": "Bekkestutunnelen",
+        "id": 83660148
+    },
+    {
+        "latitude": 59.91244361069644,
+        "longitude": 10.635126834198765,
+        "tunnel": "Lysakerlokket",
+        "id": 83667795
+    },
+    {
+        "latitude": 59.76075400861347,
+        "longitude": 10.784195057778202,
+        "tunnel": "Ringnestunnelen",
+        "id": 83668118
+    },
+    {
+        "latitude": 59.8121330888388,
+        "longitude": 10.803273247774433,
+        "tunnel": "Rikåstunnelen",
+        "id": 83668386
+    },
+    {
+        "latitude": 59.89629422578223,
+        "longitude": 10.505609280237234,
+        "tunnel": "Hamangtunnelen",
+        "id": 83668648
+    },
+    {
+        "latitude": 59.89565102329052,
+        "longitude": 10.515027801440828,
+        "tunnel": "Evjetunnelen",
+        "id": 83669239
+    },
+    {
+        "latitude": 59.78916612083913,
+        "longitude": 10.8395885364589,
+        "tunnel": "Pinåstunnelen",
+        "id": 83669781
+    },
+    {
+        "latitude": 59.91033961965336,
+        "longitude": 10.709467412984424,
+        "tunnel": "Framneslokket",
+        "id": 86521836
+    },
+    {
+        "latitude": 59.8950298211053,
+        "longitude": 10.805201037680323,
+        "tunnel": "Ryenlokket",
+        "id": 86521842
+    },
+    {
+        "latitude": 59.94541541366813,
+        "longitude": 10.779261676803609,
+        "tunnel": "Storolokket",
+        "id": 86527115
+    },
+    {
+        "latitude": 59.91613813500561,
+        "longitude": 10.744168327238876,
+        "tunnel": "Hammersborgtunnelen",
+        "id": 86539946
+    },
+    {
+        "latitude": 59.91466999193696,
+        "longitude": 10.752176547757015,
+        "tunnel": "Vaterlandtunnelen",
+        "id": 86540619
+    },
+    {
+        "latitude": 59.8405853694513,
+        "longitude": 10.788133269087826,
+        "tunnel": "Ljabrudiagonalen",
+        "id": 86549206
+    },
+    {
+        "latitude": 59.91817200095695,
+        "longitude": 10.474636118428531,
+        "tunnel": "Brennetunnelen",
+        "id": 225760268
+    },
+    {
+        "latitude": 59.92950644245072,
+        "longitude": 10.45068360438741,
+        "tunnel": "Skuitunnelen",
+        "id": 225760269
+    },
+    {
+        "latitude": 59.75943764221369,
+        "longitude": 10.811626739554043,
+        "tunnel": "Nøstvettunnelen",
+        "id": 228222589
+    },
+    {
+        "latitude": 59.920126843043896,
+        "longitude": 10.679777287709127,
+        "tunnel": "Sjølystlokket",
+        "id": 231088750
+    },
+    {
+        "latitude": 59.90512176095138,
+        "longitude": 10.755358259610324,
+        "tunnel": "Operatunnelen",
+        "id": 240636706
+    },
+    {
+        "latitude": 59.9114185037426,
+        "longitude": 10.634360347468682,
+        "tunnel": "Lysaker atrium",
+        "id": 245833417
+    },
+    {
+        "latitude": 59.89503616686623,
+        "longitude": 10.52422379877351,
+        "tunnel": "Løkkeåstunnelen",
+        "id": 371051700
+    },
+    {
+        "latitude": 59.93404918012892,
+        "longitude": 10.79744841173554,
+        "tunnel": "Lørentunnelen",
+        "id": 392878687
+    },
+    {
+        "latitude": 59.92929081155408,
+        "longitude": 10.803649709479648,
+        "tunnel": "Økerntunnelen",
+        "id": 392894331
+    },
+    {
+        "latitude": 59.899380094403895,
+        "longitude": 10.759604512490396,
+        "tunnel": "Grønlitunnelen",
+        "id": 487377823
+    },
+    {
+        "latitude": 59.80981096224302,
+        "longitude": 10.794935679414658,
+        "tunnel": "Ingiertunnelen",
+        "id": 572673871
+    },
+    {
+        "latitude": 59.93779059010995,
+        "longitude": 10.683491718229975,
+        "tunnel": "Smestadtunnelen",
+        "id": 683535773
+    },
+    {
+        "latitude": 59.90685350338234,
+        "longitude": 10.821054412321551,
+        "tunnel": "Brynstunnelen",
+        "id": 775487076
+    },
+    {
+        "latitude": 59.91984212533306,
+        "longitude": 10.633043865703067,
+        "tunnel": "Granfosstunnelen",
+        "id": 839121631
+    },
+    {
+        "latitude": 59.95295542978846,
+        "longitude": 10.750387593826018,
+        "tunnel": "Tåsentunnelen",
+        "id": 845291001
+    },
+    {
+        "latitude": 59.89020875802352,
+        "longitude": 10.507630539527137,
+        "tunnel": "Bjørnegårdtunnelen",
+        "id": 909695942
+    },
+    {
+        "latitude": 59.907019869321616,
+        "longitude": 10.79336110760956,
+        "tunnel": "Vålerengtunnelen",
+        "id": 1006205795
+    },
+    {
+        "latitude": 59.72523655746187,
+        "longitude": 10.759401511279757,
+        "tunnel": "Nordbytunnelen",
+        "id": 1007847802
+    }
+]
