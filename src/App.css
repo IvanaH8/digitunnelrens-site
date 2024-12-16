@@ -5,6 +5,13 @@
   text-align: center;
 }
 
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -39,4 +46,104 @@
 
 .read-the-docs {
   color: #888;
+}
+
+.sv-logo {
+  float: left;
+  width: 200px;
+  height: auto;
+  margin: 0 30px;
+}
+
+.niva-logo {
+  width: 150px; /* Make the NIVA logo bigger */
+  margin-bottom: 10px; /* Add some space below the NIVA logo */
+}
+
+.small-logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px; /* Space between NILU and IFE logos */
+}
+
+.nilu-logo {
+  height: 50px; /* Adjust the height as needed */
+  width: auto; /* Maintain aspect ratio */
+}
+
+.ife-logo {
+  height: 70px; /* Set a fixed height for consistency */
+  width: auto;
+}
+
+.header-title h1 {
+  /*margin-left: 50px;
+  margin-right: 50px;*/
+  color: #11187e;
+  font-size: 40px;
+}
+
+.header-title .sub-header {
+  margin-left: 50px;
+  margin-right: 100px;
+  color: #11187e;
+  font-size: 28px;
+  /*display: block;*/
+}
+/*
+.niva-logo{
+  width: 120px;
+  height: auto;
+  margin: 20px 10px;
+}
+
+.nilu-logo {
+  width: 100px;
+  height: auto;
+  margin: 10px 10px;
+}
+
+.ife-logo {
+  width: 70px;
+  height: auto;
+  margin: 20px 10px;
+}
+*/
+.app-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #f8f8f8;
+  width: 100%;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.logo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.iframe-container {
+  flex: 1;
+  overflow: hidden;
+  width: 100%;
+}
+
+.iframe-container iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
 }
