@@ -54,15 +54,15 @@ html, body {
 }
 
 .niva-logo {
-  width: 150px; /* Make the NIVA logo bigger */
-  margin-bottom: 10px; /* Add some space below the NIVA logo */
+  width: 150px;
+  margin-bottom: -10px;
 }
 
 .small-logos {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10px; /* Space between NILU and IFE logos */
+  gap: 20px; /* Space between NILU and IFE logos */
 }
 
 .nilu-logo {
@@ -84,30 +84,12 @@ html, body {
 
 .header-title .sub-header {
   margin-left: 50px;
-  margin-right: 100px;
+  margin-right: 50px;
   color: #11187e;
   font-size: 28px;
   /*display: block;*/
 }
-/*
-.niva-logo{
-  width: 120px;
-  height: auto;
-  margin: 20px 10px;
-}
 
-.nilu-logo {
-  width: 100px;
-  height: auto;
-  margin: 10px 10px;
-}
-
-.ife-logo {
-  width: 70px;
-  height: auto;
-  margin: 20px 10px;
-}
-*/
 .app-container {
   display: flex;
   flex-direction: column;
